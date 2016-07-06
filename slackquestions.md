@@ -12,7 +12,8 @@
 	* It’s best practice to put the error message at the bottom of the code, as it can mess up syntax highlighting if it’s at the top or the middle.
 	* Try to maintain the correct file hierarchy from top being the highest parent in question, to the lowest child. ex. <main>.file <dependency>.file <dependency of dependency>.file
 	* See example:
-	(http://imgur.com/HGD6ZBZ)
+	![Example](http://imgur.com/HGD6ZBZ)
+
 
 * Don’t be afraid of appearing dumb or stupid.
 	* Everybody makes rookie mistakes, and everyone in the #rails channel has made them too. Don’t be afraid to share yours, it’s not only a good way to learn, but a great way to learn to take feedback.

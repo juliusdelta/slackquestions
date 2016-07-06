@@ -11,8 +11,8 @@
 	* If you’re encountering a specific issue that consists of multiple lines of code, error messages, or multiple files, use snippets. Snippets should be organized by file and should be prepended with a comment with the file path, filename, and extension.
 	* It’s best practice to put the error message at the bottom of the code, as it can mess up syntax highlighting if it’s at the top or the middle.
 	* Try to maintain the correct file hierarchy from top being the highest parent in question, to the lowest child. ex. <main>.file <dependency>.file <dependency of dependency>.file
-	* See example:
-	[Imgur](http://i.imgur.com/HGD6ZBZ.png)
+	* See an example [here]('http://i.imgur.com/HGD6ZBZ.png')
+
 
 
 * Don’t be afraid of appearing dumb or stupid.

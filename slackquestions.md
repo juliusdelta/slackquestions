@@ -12,6 +12,14 @@
 	* It’s best practice to put the error message at the bottom of the code, as it can mess up syntax highlighting if it’s at the top or the middle.
 	* Try to maintain the correct file hierarchy from top being the highest parent in question, to the lowest child. ex. <main>.file <dependency>.file <dependency of dependency>.file
 	* See an example [here](http://i.imgur.com/HGD6ZBZ.png)
+	* If your code or error messages are short, consider putting them between 2 \` symbols.<br>
+		* For example: <br>
+		\`code snippet\` 
+		* If you're sharing multiple lines, use 3 \` symbols.<br>
+		* For example: <br>
+		\`\`\`code snippet<br>
+		more code<br>
+		more code\`\`\`<br>
 
 
 
